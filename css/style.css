@@ -1,7 +1,7 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+html, body {
+  height: 100%;
+  width: 100%;
+}
 
 .mdl-layout__header-row {
   align-items: center;
